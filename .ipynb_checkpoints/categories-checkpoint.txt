@@ -1,0 +1,10 @@
+categories = [
+    "Android Developer",
+    "Data Analyst",
+    "Data Science",
+    "Designer",
+    "DevOps",
+    "Machine Learning",
+    "Network Engineer",
+    "System Administrator",
+    "Web Developer"]
